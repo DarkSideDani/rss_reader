@@ -13,5 +13,5 @@ A simple RSS reader built in Python that works directly in the terminal. This pr
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd terminal-rss-reader
+   cd rss_reader
    ```
